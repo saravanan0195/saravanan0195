@@ -6,11 +6,13 @@
 
 <h3 align="center">A passionate on artificial intelligence</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan0195&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan0195" /> </p>
 
+<img align="right" alt="Coding" width="200" src="<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
+">
 
 
 - 🔭 I’m currently working on **ai projects**
