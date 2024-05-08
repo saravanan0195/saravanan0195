@@ -3,7 +3,7 @@
 " alt="sara"> </div>
 <h3 align="center">A passionate on artificial intelligence</h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan0195&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan0195" /> </p>
