@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/saravanan0195/saravanan0195/assets/141270199/0ecf3c39-d5c9-482c-a6df-fa8fced1fc95)
+![Orange and Tosca Geometric Technology LinkedIn Banner](https://github.com/saravanan0195/saravanan0195/assets/141270199/70aa01bd-3b0a-4d87-abe2-23a7f071f558)
+
 
 
 <h1 align="center">Hi 👋, I'm saravanan</h1>
