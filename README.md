@@ -3,11 +3,10 @@
 
 
 <h1 align="center">Hi 👋, I'm saravanan</h1>
-<div align="center" > <img src="![Content Creator LinkedIn Banner .png ](https://github.com/saravanan0195/saravanan0195/assets/141270199/a2e8e0f3-34e3-4e42-8437-e61481c9ec37)
-" alt="sara"> </div>
+
 <h3 align="center">A passionate on artificial intelligence</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan0195&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan0195" /> </p>
