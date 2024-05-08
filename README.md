@@ -1,26 +1,20 @@
 
 ![gif images](https://github.com/saravanan0195/saravanan0195/assets/141270199/f7b24753-8646-4265-aea9-1bd8a00f164c)
 
-
-<h1 align="center">Hi 👋, I'm saravanan</h1>
-
-<h3 align="center">A passionate on artificial intelligence</h3>
+<h1 align="center">Hi 👋, there</h1>
+<h3 align="center">passionate on artificial intelligence and data science</h3>
 
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saravanan0195&label=Profile%20views&color=0e75b6&style=flat" alt="saravanan0195" /> </p>
+👋 Hey there! I'm Saravanan, a passionate 2nd-year B.Tech student majoring in Information Technology at Chennai. 🎓 I'm on an exhilarating journey to explore the depths of emerging technologies like Artificial Intelligence (AI) and Machine Learning (ML) 🤖 with a keen focus on leveraging them to tackle real-world challenges. 💡
+
+🌟 As an avid learner, I thrive on the constant evolution of technology and its potential to reshape the world around us. Whether it's diving into algorithms, coding innovative solutions, or delving into data science, I'm always eager to expand my horizons and push the boundaries of what's possible. 💻
+
+🚀 My GitHub journey is a testament to my dedication to growth and innovation. Here, you'll find a showcase of my projects, each a reflection of my passion for applying cutting-edge tech to solve problems and make a positive impact. 🌐
 
 
-- 🔭 I’m currently working on **ai projects**
 
-- 🌱 I’m currently learning **artificial intelligence and machine learning**
-
-- 👯 I’m looking to collaborate on **ai/ml**
-
-- 📫 How to reach me **saravanan205087@gmail.com**
-
-- ⚡ Fun fact **maybe i'm good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +31,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanan0195&show_icons=true&locale=en&layout=compact" alt="saravanan0195" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saravanan0195&show_icons=true&locale=en" alt="saravanan0195" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan0195&" alt="saravanan0195" /></p>
