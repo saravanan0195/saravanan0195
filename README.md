@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center">passionate on artificial intelligence and data science</h3>
 
-<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
-
 
 👋 Hey there! I'm Saravanan, a passionate 2nd-year B.Tech student majoring in Information Technology at Chennai. 🎓 I'm on an exhilarating journey to explore the depths of emerging technologies like Artificial Intelligence (AI) and Machine Learning (ML) 🤖 with a keen focus on leveraging them to tackle real-world challenges. 💡
 
@@ -31,3 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanan0195&show_icons=true&locale=en&layout=compact" alt="saravanan0195" /></p>
 
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0bmxhNTIzZmV2cTRmNGM1anUwbmRhOW43bzZoa2g4OXh3Z3hqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3KQFqhgLN9ngkYr0qS/giphy.gif">
