@@ -29,5 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saravanan0195&show_icons=true&locale=en&layout=compact" alt="saravanan0195" /></p>
 
-<img align="right" alt="Coding" width="400" src="![webdev](https://github.com/saravanan0195/saravanan0195/assets/141270199/48ccd678-585a-41ad-a9d6-e69742fde26a)
-">
+![Alt Text](https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif)
+
