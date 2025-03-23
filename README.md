@@ -5,7 +5,7 @@
 <h3 align="center">passionate on artificial intelligence and data science</h3>
 
 
-👋 Hey there! I'm Saravanan, a passionate 2nd-year B.Tech student majoring in Information Technology at Chennai. 🎓 I'm on an exhilarating journey to explore the depths of emerging technologies like Artificial Intelligence (AI) and Machine Learning (ML) 🤖 with a keen focus on leveraging them to tackle real-world challenges. 💡
+👋 Hey there! I'm Saravanan, a passionate pre-final year B.Tech student majoring in Information Technology at Chennai. 🎓 I'm on an exhilarating journey to explore the depths of emerging technologies like Artificial Intelligence (AI) and Machine Learning (ML) 🤖 with a keen focus on leveraging them to tackle real-world challenges. 💡
 
 🌟 As an avid learner, I thrive on the constant evolution of technology and its potential to reshape the world around us. Whether it's diving into algorithms, coding innovative solutions, or delving into data science, I'm always eager to expand my horizons and push the boundaries of what's possible. 💻
 
