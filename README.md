@@ -2,7 +2,7 @@
 ![gif images](https://github.com/saravanan0195/saravanan0195/assets/141270199/f7b24753-8646-4265-aea9-1bd8a00f164c)
 
 <h1 align="center">Hi 👋, there</h1>
-<h3 align="center">passionate on Data analysis and data science</h3>
+<h3 align="center">Passionate on Data Analysis and Data Science</h3>
 
 
 👋 Hey there! I'm Saravanan, a passionate pre-final year B.Tech student majoring in Information Technology at Chennai. 🎓 I'm on an exhilarating journey to explore the depths of emerging technologies like Artificial Intelligence (AI) and Machine Learning (ML) 🤖 with a keen focus on leveraging them to tackle real-world challenges. 💡
