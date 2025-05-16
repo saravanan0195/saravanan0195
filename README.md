@@ -2,7 +2,11 @@
 ![gif images](https://github.com/saravanan0195/saravanan0195/assets/141270199/f7b24753-8646-4265-aea9-1bd8a00f164c)
 
 <h1 align="center">Hi 👋, there</h1>
-<h3 align="center">Passionate on Data Analysis and Data Science</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=ffffff&background=000000&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst%2C+;an+Software+engineer+and+Data+engineer;+and+a+Content+Creator!)](https://git.io/typing-svg)
+
+</div>
 
 
 👋 Hey there! I'm Saravanan, a passionate pre-final year B.Tech student majoring in Information Technology at Chennai. 🎓 I'm on an exhilarating journey to explore the depths of emerging technologies like Artificial Intelligence (AI) and Machine Learning (ML) 🤖 with a keen focus on leveraging them to tackle real-world challenges. 💡
