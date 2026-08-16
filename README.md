@@ -35,3 +35,21 @@
 
 ![Alt Text](https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif)
 
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/saravanan0195/saravanan0195/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/saravanan0195/saravanan0195/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/saravanan0195/saravanan0195/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
